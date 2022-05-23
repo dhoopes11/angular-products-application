@@ -24,6 +24,12 @@ export const products = [
     price: 299,
     description: ''
   }
+  //{
+  //  id: 4,
+  //  name: 'Phone XXL',
+   // price: 899,
+  //  description: 'Our biggest screen perfect for gaming'
+  //}
 ];
 
 
